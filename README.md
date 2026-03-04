@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hola, soy José López 👋
 
-<!--
-**jlopezp/jlopezp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Data Analyst enfocado en automatización de procesos y análisis de datos.
 
-Here are some ideas to get you started:
+Tengo experiencia trabajando con:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL Server
+- Python
+- ETL y procesos de datos
+- Automatización de validación de archivos
+- Power BI
+
+## 🚀 Proyectos
+
+Aquí comparto proyectos reales y personales relacionados con:
+
+- Automatización de procesos con Python
+- Validación de archivos financieros
+- Procesos ETL con SQL Server y SSIS
+- Análisis de datos
+
+## 🛠 Tecnologías
+
+- SQL Server
+- Python
+- Pandas
+- SSIS
+- Power BI
+- Git / GitHub
+
+## 📍 Ubicación
+
+Santiago, Chile
